@@ -7,17 +7,11 @@
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
-Java • C++ • JavaScript • Python
+### Programming Languages                                                 ### Frontend
+Java • C++ • JavaScript • Python                                          React.js • HTML • CSS
 
-### Frontend
-React.js • HTML • CSS
-
-### Backend
-Node.js • Express.js
-
-### Database
-MongoDB • SQL
+### Backend                                                               ### Database
+MongoDB • SQL                                                              Node.js • Express.js
 
 ### Tools
 Git • GitHub • Postman • VS Code
