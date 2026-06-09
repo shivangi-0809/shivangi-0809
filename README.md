@@ -1,5 +1,4 @@
 # Hi, I'm Shivangi 👋
-
 🎓 B.Tech Student
 💻 Full Stack Developer
 📚 DSA Enthusiast
@@ -7,23 +6,23 @@
 
 ## 🛠️ Technical Skills
 
-### Programming Languages                                                 ### Frontend
-Java • C++ • JavaScript • Python                                          React.js • HTML • CSS
+### Programming Languages                                                
+Java • C++ • JavaScript • Python
 
-### Backend                                                               ### Database
-MongoDB • SQL                                                              Node.js • Express.js
+ ### Frontend
+  React.js • HTML • CSS
+
+### Backend                                                              
+MongoDB • SQL 
+
+ ### Database
+  Node.js • Express.js
 
 ### Tools
 Git • GitHub • Postman • VS Code
 
 ### Core Concepts
-Data Structures & Algorithms
-Object-Oriented Programming
-Operating Systems
-DBMS
-Computer Networks
-REST APIs
-JWT Authentication
+Data Structures & Algorithms , Object-Oriented Programming , Operating Systems , DBMS , Computer Networks , REST APIs , JWT Authentication
 
 ## 📈 Currently Learning
 - Advanced DSA
